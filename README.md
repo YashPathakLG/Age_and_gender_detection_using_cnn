@@ -8,7 +8,7 @@
 
 ## How to run ?
 
-* Clone the repository to your device by using git clone ```https://github.com/yashpathakcs/Aga_and_gender_detection_using_cnn.git``` command.
+* Clone the repository to your device by using git clone ```https://github.com/YashPathakLG/Age_and_gender_detection_using_cnn``` command.
 * Download the required modules mentioned in the ``Requirements.txt`` file.
 * Run the ``Train.ipynb`` file.
 * Run the ``Predict.ipynb`` file and specify the path to your image in the file.
